@@ -1,5 +1,5 @@
 # 💫 About Me:
-i'm currently learning JS, CSS, HTML, PHP and Python with Django
+Programador redescobrindo a paixão pela programação. Em constante aprendizado em Python, Javascript, NodeJS, PHP, HTML5, TailwindCSS
 
 
 ## 🌐 Socials:
