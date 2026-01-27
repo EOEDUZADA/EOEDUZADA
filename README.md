@@ -1,8 +1,8 @@
 # 💫 About Me:
-Programador redescobrindo a paixão pela programação. Em constante aprendizado em Python, Javascript, NodeJS, PHP, HTML5 e TailwindCSS
+Redescobrindo a paixão pela programação. Em constante aprendizado em Python, Javascript, NodeJS, PHP, HTML5, TailwindCSS e React
 
 
-## 🌐 Socials:
+# # 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/duduupires) 
 
 # 💻 Tech Stack:
